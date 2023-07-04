@@ -1,0 +1,2 @@
+a="mangesh"
+print(a)
